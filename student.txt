@@ -1,0 +1,3 @@
+student name: E Kashin (G Kashin)
+student number: 645853
+student class: HAITVT1C (Haarlem)
